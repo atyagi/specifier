@@ -1,5 +1,6 @@
 # Specifier
 [![Build Status](https://travis-ci.org/atyagi/specifier.svg)](https://travis-ci.org/atyagi/specifier)
+[![Coverage Status](https://coveralls.io/repos/atyagi/specifier/badge.svg)](https://coveralls.io/r/atyagi/specifier)
 
 Provides a basic set of classes to utilize the specification
 design pattern.
