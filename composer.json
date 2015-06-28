@@ -1,0 +1,23 @@
+{
+  "name": "atyagi/specifier",
+  "description": "A library to help implement the specification design pattern",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ankit Tyagi",
+      "email": "ankit.tyagi.2@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "nesbot/carbon": "~1.14",
+    "phpunit/phpunit": "4.7.*",
+    "mockery/mockery": "dev-master",
+    "satooshi/php-coveralls": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Atyagi\\": "src/Atyagi"
+    }
+  }
+}
