@@ -1,6 +1,7 @@
 {
   "name": "atyagi/specifier",
   "description": "A library to help implement the specification design pattern",
+  "keywords": ["specification", "design patterns", "domain driven design"],
   "license": "MIT",
   "authors": [
     {
